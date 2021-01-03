@@ -1,0 +1,11 @@
+Algoritmul genetic va putea sa gaseasca doar valorile diferite ale radacinilor ecuatiilor(nu va sti multiplicitatea lor)
+Vom incerca sa rulam de mai multe ori algoritmul astfel incat sa vedem cate solutii diferite vom reusi sa utilizam
+Va trebui sa implementam un mecanism prin care unele valori sa poata fi defavorizate ca solutii 
+
+UPDATA: UTILIZAM IMPARTIREA POLINOAMELOR
+
+Agloritm: 
+-intoducem ecuatia polinomiala
+-gasim o solutie
+-impartim ecuatia initiala la (x-r) unde r este radacina gasita
+-cautam solutia 

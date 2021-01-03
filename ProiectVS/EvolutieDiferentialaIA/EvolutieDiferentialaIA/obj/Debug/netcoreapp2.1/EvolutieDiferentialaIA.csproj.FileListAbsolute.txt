@@ -1,0 +1,8 @@
+D:\Facultate\AN4_SEM1\IA\Proiect\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\bin\Debug\netcoreapp2.1\EvolutieDiferentialaIA.deps.json
+D:\Facultate\AN4_SEM1\IA\Proiect\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\bin\Debug\netcoreapp2.1\EvolutieDiferentialaIA.dll
+D:\Facultate\AN4_SEM1\IA\Proiect\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\bin\Debug\netcoreapp2.1\EvolutieDiferentialaIA.pdb
+D:\Facultate\AN4_SEM1\IA\Proiect\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\obj\Debug\netcoreapp2.1\EvolutieDiferentialaIA.csproj.CoreCompileInputs.cache
+D:\Facultate\AN4_SEM1\IA\Proiect\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\obj\Debug\netcoreapp2.1\EvolutieDiferentialaIA.AssemblyInfoInputs.cache
+D:\Facultate\AN4_SEM1\IA\Proiect\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\obj\Debug\netcoreapp2.1\EvolutieDiferentialaIA.AssemblyInfo.cs
+D:\Facultate\AN4_SEM1\IA\Proiect\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\obj\Debug\netcoreapp2.1\EvolutieDiferentialaIA.dll
+D:\Facultate\AN4_SEM1\IA\Proiect\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\obj\Debug\netcoreapp2.1\EvolutieDiferentialaIA.pdb

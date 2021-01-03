@@ -1,0 +1,4 @@
+D:\Facultate\AN4_SEM1\IA\Proiect\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\obj\Debug\netcoreapp1.0\EvolutieDiferentialaIA.csprojAssemblyReference.cache
+D:\Facultate\AN4_SEM1\IA\Proiect\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\obj\Debug\netcoreapp1.0\EvolutieDiferentialaIA.csproj.CoreCompileInputs.cache
+D:\Facultate\AN4_SEM1\IA\Proiect\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\obj\Debug\netcoreapp1.0\EvolutieDiferentialaIA.AssemblyInfoInputs.cache
+D:\Facultate\AN4_SEM1\IA\Proiect\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\obj\Debug\netcoreapp1.0\EvolutieDiferentialaIA.AssemblyInfo.cs
