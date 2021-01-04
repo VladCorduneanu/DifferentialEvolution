@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA.csproj",
+        "projectName": "EvolutieDiferentialaIA",
+        "projectPath": "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA.csproj",
+        "packagesPath": "C:\\Users\\simio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\simio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.6"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.6": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.6": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

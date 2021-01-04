@@ -24,10 +24,10 @@ namespace EvolutieDiferentialaIA.Implementations
         public string PolynomCoeffs = "";
         public string EquationType = "";
 
-        public string Resolve()
+        public string Resolve(double [] coeffs, int degree)
         {
             TextToReturn = "";
-            Polynom polynom = ReadPolynom();
+            Polynom polynom = ReadPolynom(coeffs, degree);
             int numberOfRoots = polynom.GetDegree();
             DifferentialEvolution alg = new DifferentialEvolution();
 
@@ -49,7 +49,7 @@ namespace EvolutieDiferentialaIA.Implementations
 
             return TextToReturn;
         }
-        private Polynom ReadPolynom()
+        private Polynom ReadPolynom(double [] coeffs, int degree)
         {
             // Hardcoded till we make the interface
             //double[] coeffs = { 1, 0, /**/ 0, 0, /**/ 5, 0, /**/ 0, 0, /**/ 4, 0 };
@@ -62,8 +62,8 @@ namespace EvolutieDiferentialaIA.Implementations
             //                /**/ -330, 822, /**/ -548, 360, /**/ -240, 0 };
             //const int degree = 7;
 
-            double[] coeffs = { 1, 0, /**/ 3, 3, /**/ 0, 9, /**/ -6, 6, /**/ -4, 0 };
-            const int degree = 4;
+            //double[] coeffs = { 1, 0, /**/ 3, 3, /**/ 0, 9, /**/ -6, 6, /**/ -4, 0 };
+            //const int degree = 4;
 
             Console.WriteLine("Polinomul introdus:");
             Console.WriteLine("");

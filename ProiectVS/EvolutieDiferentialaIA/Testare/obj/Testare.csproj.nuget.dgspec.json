@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\Testare\\Testare.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA.csproj",
+        "projectName": "EvolutieDiferentialaIA",
+        "projectPath": "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA.csproj",
+        "packagesPath": "C:\\Users\\simio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\simio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.6"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.6": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.6": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\InterfataProiect\\InterfataProiect.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\InterfataProiect\\InterfataProiect.csproj",
+        "projectName": "InterfataProiect",
+        "projectPath": "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\InterfataProiect\\InterfataProiect.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA.csproj": {
+                "projectPath": "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\Testare\\Testare.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\Testare\\Testare.csproj",
+        "projectName": "Testare",
+        "projectPath": "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\Testare\\Testare.csproj",
+        "packagesPath": "C:\\Users\\simio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\Testare\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\simio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA.csproj": {
+                "projectPath": "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA\\EvolutieDiferentialaIA.csproj"
+              },
+              "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\InterfataProiect\\InterfataProiect.csproj": {
+                "projectPath": "C:\\Users\\simio\\Downloads\\an4\\sem1\\ia\\project git\\DifferentialEvolution\\ProiectVS\\EvolutieDiferentialaIA\\InterfataProiect\\InterfataProiect.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.8.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.10.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

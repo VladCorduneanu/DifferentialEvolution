@@ -40,3 +40,23 @@ D:\Facultate\AN4_SEM1\IA\ProiectGit\DifferentialEvolution\ProiectVS\EvolutieDife
 D:\Facultate\AN4_SEM1\IA\ProiectGit\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\obj\Debug\netcoreapp2.1\Testare.csproj.CopyComplete
 D:\Facultate\AN4_SEM1\IA\ProiectGit\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\obj\Debug\netcoreapp2.1\Testare.dll
 D:\Facultate\AN4_SEM1\IA\ProiectGit\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\obj\Debug\netcoreapp2.1\Testare.pdb
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\bin\Debug\netcoreapp2.1\Testare.deps.json
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\bin\Debug\netcoreapp2.1\Testare.runtimeconfig.json
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\bin\Debug\netcoreapp2.1\Testare.runtimeconfig.dev.json
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\bin\Debug\netcoreapp2.1\Testare.dll
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\bin\Debug\netcoreapp2.1\Testare.pdb
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\bin\Debug\netcoreapp2.1\EvolutieDiferentialaIA.dll
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\bin\Debug\netcoreapp2.1\InterfataProiect.exe
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\bin\Debug\netcoreapp2.1\EvolutieDiferentialaIA.pdb
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\bin\Debug\netcoreapp2.1\InterfataProiect.pdb
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\bin\Debug\netcoreapp2.1\InterfataProiect.exe.config
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\obj\Debug\netcoreapp2.1\Testare.csprojAssemblyReference.cache
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\obj\Debug\netcoreapp2.1\Testare.AssemblyInfoInputs.cache
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\obj\Debug\netcoreapp2.1\Testare.AssemblyInfo.cs
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\obj\Debug\netcoreapp2.1\Testare.csproj.CopyComplete
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\obj\Debug\netcoreapp2.1\Testare.dll
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\Testare\obj\Debug\netcoreapp2.1\Testare.pdb

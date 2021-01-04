@@ -16,3 +16,11 @@ D:\Facultate\AN4_SEM1\IA\ProiectGit\DifferentialEvolution\ProiectVS\EvolutieDife
 D:\Facultate\AN4_SEM1\IA\ProiectGit\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\obj\Debug\netstandard1.6\EvolutieDiferentialaIA.AssemblyInfo.cs
 D:\Facultate\AN4_SEM1\IA\ProiectGit\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\obj\Debug\netstandard1.6\EvolutieDiferentialaIA.dll
 D:\Facultate\AN4_SEM1\IA\ProiectGit\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\obj\Debug\netstandard1.6\EvolutieDiferentialaIA.pdb
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\bin\Debug\netstandard1.6\EvolutieDiferentialaIA.deps.json
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\bin\Debug\netstandard1.6\EvolutieDiferentialaIA.dll
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\bin\Debug\netstandard1.6\EvolutieDiferentialaIA.pdb
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\obj\Debug\netstandard1.6\EvolutieDiferentialaIA.csprojAssemblyReference.cache
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\obj\Debug\netstandard1.6\EvolutieDiferentialaIA.AssemblyInfoInputs.cache
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\obj\Debug\netstandard1.6\EvolutieDiferentialaIA.AssemblyInfo.cs
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\obj\Debug\netstandard1.6\EvolutieDiferentialaIA.dll
+C:\Users\simio\Downloads\an4\sem1\ia\project git\DifferentialEvolution\ProiectVS\EvolutieDiferentialaIA\EvolutieDiferentialaIA\obj\Debug\netstandard1.6\EvolutieDiferentialaIA.pdb
