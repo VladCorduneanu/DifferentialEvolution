@@ -34,6 +34,7 @@
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.show = new System.Windows.Forms.Button();
             this.textBoxGrad = new System.Windows.Forms.TextBox();
+            this.panelEcuation = new System.Windows.Forms.Panel();
             ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -72,11 +73,19 @@
             this.textBoxGrad.TabIndex = 6;
             this.textBoxGrad.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox2_KeyPress);
             // 
+            // panelEcuation
+            // 
+            this.panelEcuation.Location = new System.Drawing.Point(0, 0);
+            this.panelEcuation.Name = "panelEcuation";
+            this.panelEcuation.Size = new System.Drawing.Size(1368, 109);
+            this.panelEcuation.TabIndex = 7;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1067, 554);
+            this.ClientSize = new System.Drawing.Size(1367, 554);
+            this.Controls.Add(this.panelEcuation);
             this.Controls.Add(this.textBoxGrad);
             this.Controls.Add(this.show);
             this.Controls.Add(this.textBox1);
@@ -95,6 +104,7 @@
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
         private System.Windows.Forms.Button show;
         private System.Windows.Forms.TextBox textBoxGrad;
+        private System.Windows.Forms.Panel panelEcuation;
     }
 }
 

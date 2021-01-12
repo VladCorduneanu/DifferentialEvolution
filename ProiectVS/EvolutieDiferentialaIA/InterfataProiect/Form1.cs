@@ -56,6 +56,9 @@ namespace InterfataProiect
         {
             try
             {
+                this.panelEcuation.Controls.Clear();
+                _real.Clear();
+                _imag.Clear();
                 if (e.KeyChar == (char)Keys.Return)
                 {
                     const int textBoxWidth = 30;  // control variables for TextBox placement
@@ -128,19 +131,20 @@ namespace InterfataProiect
                         _real.Add(realBox);
                         _imag.Add(imagBox);
 
-                        this.Controls.Add(braceO);
-                        this.Controls.Add(realBox);
-                        this.Controls.Add(plus);
-                        this.Controls.Add(imagBox);
-                        this.Controls.Add(imaginary);
-                        this.Controls.Add(unknow);
-                        this.Controls.Add(exponent);
+                        this.panelEcuation.Controls.Add(braceO);
+                        //this.Controls.Add(braceO);
+                        this.panelEcuation.Controls.Add(realBox);
+                        this.panelEcuation.Controls.Add(plus);
+                        this.panelEcuation.Controls.Add(imagBox);
+                        this.panelEcuation.Controls.Add(imaginary);
+                        this.panelEcuation.Controls.Add(unknow);
+                        this.panelEcuation.Controls.Add(exponent);
                         if (i == 0)
                         {
                             plus2.Text = " = 0";
                             plus2.Width = 4 * labelWidth;
                         }
-                        this.Controls.Add(plus2);
+                        this.panelEcuation.Controls.Add(plus2);
                     }
                 }
             }
