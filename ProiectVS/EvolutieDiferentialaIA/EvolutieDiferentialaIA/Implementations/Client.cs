@@ -51,20 +51,6 @@ namespace EvolutieDiferentialaIA.Implementations
         }
         private Polynom ReadPolynom(double [] coeffs, int degree)
         {
-            // Hardcoded till we make the interface
-            //double[] coeffs = { 1, 0, /**/ 0, 0, /**/ 5, 0, /**/ 0, 0, /**/ 4, 0 };
-            //const int degree = 4;
-
-            //double[] coeffs = { 1, 0, /**/ 2, 0, /**/ 1, 0};
-            //const int degree = 2;
-
-            //double[] coeffs = { 1, 0, /**/ 15, 3, /**/ 83, 45, /**/ 195, 255, /**/ 104, 675,
-            //                /**/ -330, 822, /**/ -548, 360, /**/ -240, 0 };
-            //const int degree = 7;
-
-            //double[] coeffs = { 1, 0, /**/ 3, 3, /**/ 0, 9, /**/ -6, 6, /**/ -4, 0 };
-            //const int degree = 4;
-
             Console.WriteLine("Polinomul introdus:");
             Console.WriteLine("");
 

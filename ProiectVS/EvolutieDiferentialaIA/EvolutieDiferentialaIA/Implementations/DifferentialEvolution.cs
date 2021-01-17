@@ -8,11 +8,11 @@ namespace EvolutieDiferentialaIA
     {
         int c_SolutionDimension = 2;
         int c_NoIndividuals = 10;
-        double c_LowerBound = -5.12;
-        double c_UpperBound = 5.12;
+        double c_LowerBound = -10000.12;
+        double c_UpperBound = 10000.12;
         double c_MutationProbability = 0.02;
         double c_CrossProbability = 0.9;
-        double c_AcceptedError = 10e-6;
+        double c_AcceptedError = 10e-10;
         int c_MaxEpoch = 50000;
         double c_DifferentialFactor = 0.8;
 
@@ -34,20 +34,6 @@ namespace EvolutieDiferentialaIA
 
             return elite;
         }
-
-        internal void SetEquation(Equation eq)
-        {
-            EquationToSolve = eq;
-        }
-
-        internal void ListPopulation()
-        {
-            for (int i = 0; i < c_NoIndividuals; ++i)
-            {
-                Console.WriteLine(Individuals[i].ToString());
-            }
-        }
-
         private List<Individual> Selection()
         {
             List<Individual> selectedIndividuals = new List<Individual>();
@@ -70,7 +56,6 @@ namespace EvolutieDiferentialaIA
 
             return selectedIndividuals;
         }
-
         private List<Individual> Crossing(List<Individual> selectedPopulation)
         {
             List<Individual> crossedPopulation = new List<Individual>();
@@ -101,7 +86,6 @@ namespace EvolutieDiferentialaIA
 
             return crossedPopulation;
         }
-
         private List<Individual> Mutate(List<Individual> crossedPopulation)
         {
             Random rand = new Random();
@@ -123,8 +107,18 @@ namespace EvolutieDiferentialaIA
             }
             return mutatedList;
         }
-
-        internal double[] Execute()
+        internal void SetEquation(Equation eq)
+        {
+            EquationToSolve = eq;
+        }
+        internal void ListPopulation()
+        {
+            for (int i = 0; i < c_NoIndividuals; ++i)
+            {
+                Console.WriteLine(Individuals[i].ToString());
+            }
+        }
+        internal double[] ExecuteGenetic()
         {
             Console.WriteLine("\n\n\n");
             Console.WriteLine("Generare Populatie Initiala! nr pop:" + c_NoIndividuals);
@@ -179,7 +173,6 @@ namespace EvolutieDiferentialaIA
 
             return elite.m_List;
         }
-
         internal double[] ExecuteDifferential()
         {
             Console.WriteLine("\n\n\n");

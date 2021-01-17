@@ -21,6 +21,7 @@ namespace EvolutieDiferentialaIA
             return result;
         }
 
+        // The main function that does the algorithm of polynomial division with a found root
         // The factors are like this : a0 *x^n + a1*x^n-1 + ... + an * x^0
         // The relation on which the calculus is based is that t[i] = a[i] - t[i-1] with t[0] = a[0]
         // with {t} we have the coeffs of the new polynom
